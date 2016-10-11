@@ -4,4 +4,5 @@ npm-debug.log
 .idea
 aot
 dist
+.vscode
 
